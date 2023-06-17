@@ -8,5 +8,8 @@ tmp/
 build
 htmlcov
 
+# Don't upload local files.
+.envrc.local
+
 output
 public
